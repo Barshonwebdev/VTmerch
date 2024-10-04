@@ -1,0 +1,7 @@
+body{
+    background-color: #EA2127;
+}
+
+.logo{
+    filter: invert(100%) sepia(100%) saturate(500%) hue-rotate(180deg);
+}
