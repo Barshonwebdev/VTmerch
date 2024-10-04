@@ -4,8 +4,8 @@ import logo from "../assets/Logo/Valuetainment.svg";
 const Banner = () => {
   return (
     <div className=" text-white px-7 pt-5 ">
-      <div className="flex justify-between  space-x-2">
-        <div className="flex">
+      <div className="flex justify-between ">
+        <div className="flex space-x-3">
         <img className="w-10 logo " src={logo} alt="" />
         <h1 className="text-6xl font-bold">VTMERCH</h1>
         </div>
