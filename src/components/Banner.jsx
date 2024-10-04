@@ -1,6 +1,7 @@
 import React from "react";
 import "./banner.css";
 import logo from "../assets/Logo/Valuetainment.svg";
+import slogan from '../assets/img/img (1).jpeg'
 const Banner = () => {
   return (
     <div className=" text-white px-7 pt-5 ">
@@ -26,6 +27,9 @@ const Banner = () => {
             </svg>
           </button>
         </div>
+      </div>
+      <div>
+        <img src="" alt="" />
       </div>
     </div>
   );
