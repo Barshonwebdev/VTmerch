@@ -1,14 +1,13 @@
 import React from "react";
 import "./banner.css";
 import logo from "../assets/Logo/Valuetainment.svg";
-import slogan from '../assets/img/img (1).jpeg'
 const Banner = () => {
   return (
     <div className=" text-white px-7 pt-5 ">
       <div className="flex justify-between ">
         <div className="flex space-x-3">
         <img className="w-10 logo " src={logo} alt="" />
-        <h1 className="text-6xl font-bold">VTMERCH</h1>
+        <h1 className="text-6xl font-bold ">VTMERCH</h1>
         </div>
         <div>
           <button className="btn btn-square btn-ghost">
@@ -28,8 +27,10 @@ const Banner = () => {
           </button>
         </div>
       </div>
-      <div>
-        <img src="" alt="" />
+      <div className="mt-16 ms-8 flex space-x-12">
+        <h1 className="slogan text-6xl opacity-50">FUTURE </h1>
+        <h1 className="slogan text-6xl opacity-50"> LOOKS </h1>
+        <h1 className="slogan text-6xl opacity-50">BRIGHTS!</h1>
       </div>
     </div>
   );

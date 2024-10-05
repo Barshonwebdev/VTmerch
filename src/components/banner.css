@@ -1,7 +1,24 @@
+@font-face {
+    font-family: 'Act';
+    src: url('../assets//Font/act_of_rejection/Act_Of_Rejection.ttf') format('truetype');    
+  }
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets//Font/Inter/Inter/static/Inter_18pt-Medium.ttf') format('truetype');    
+  }
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../assets//Font/Montserrat/static/Montserrat-Medium.ttf') format('truetype');    
+  }
+  
 body{
     background-color: #EA2127;
+}
+.slogan{
+    font-family: 'Act', sans-serif;
 }
 
 .logo{
     filter: invert(100%) sepia(100%) saturate(500%) hue-rotate(180deg);
 }
+
