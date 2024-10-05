@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../assets//Font/Montserrat/static/Montserrat-Medium.ttf') format('truetype');    
+  }
+
+.quote{
+    font-family: 'Montserrat', sans-serif;
+    font-stretch: ultra-expanded;
+}

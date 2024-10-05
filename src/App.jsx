@@ -1,6 +1,7 @@
 import Banner from "./components/Banner"
 import Books from "./components/Books"
 import Products from "./components/products"
+import Quote from "./components/Quote"
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
      <Banner></Banner>
      <Products></Products>
      <Books></Books>
+     <Quote></Quote>
     </div>
   )
 }
