@@ -5,7 +5,7 @@ import product2 from "../assets/img/img (6).jpeg";
 import product3 from "../assets/img/img (10).jpeg";
 const Products = () => {
   return (
-    <div className="px-12 mx-3 mt-10 space-y-2  ">
+    <div className="px-12 mx-3 my-10 space-y-2  ">
       <p className="text-4xl font-semibold text-black bogo tracking-widest">
         BUY 1 GET 1 FREE
       </p>

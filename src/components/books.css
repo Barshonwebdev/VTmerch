@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../assets//Font/Montserrat/static/Montserrat-Medium.ttf') format('truetype');    
+  }
+
+.books{
+    background-color: #111111;
+}
+
+.book-font{
+    font-family: 'Montserrat', sans-serif;
+    
+}

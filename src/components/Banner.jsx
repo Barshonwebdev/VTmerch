@@ -17,7 +17,7 @@ const Banner = () => {
       <div className="flex justify-between ">
         <div className="flex items-center space-x-3">
         <img className="w-10 logo " src={logo} alt="" />
-        <h1 className=" text-2xl md:text-6xl font-bold ">VTMERCH</h1>
+        <h1 className=" text-2xl md:text-6xl font-bold  ">VTMERCH</h1>
         </div>
         <div>
           <button className="btn btn-square btn-ghost">
