@@ -13,7 +13,7 @@ import bannerproduct3 from '../assets/img/product3.jpeg'
 import bannerproduct4 from '../assets/img/productnew3.jpg'
 const Banner = () => {
   return (
-    <div className=" text-white px-5 md:px-12 pt-5  ">
+    <div className=" text-white px-5 md:px-12 pt-5 banner  ">
       <div className="flex justify-between ">
         <div className="flex items-center space-x-3">
         <img className="w-10 logo " src={logo} alt="" />
