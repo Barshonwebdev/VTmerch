@@ -9,8 +9,8 @@ const Products = () => {
       <p className="text-4xl font-semibold text-black bogo tracking-widest">
         BUY 1 GET 1 FREE
       </p>
-      <p className="text-4xl font-semibold  bogo tracking-widest  text-black">
-        ON <span className="best">BEST SELLING PRODUCTS</span>
+      <p className="text-4xl  font-semibold  bogo tracking-widest  text-black">
+        ON <span className="best text-gray-100">BEST SELLING PRODUCTS</span>
       </p>
       {/* products  */}
       <div className="py-10">
