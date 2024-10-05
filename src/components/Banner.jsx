@@ -7,10 +7,10 @@ import "swiper/css/autoplay";
 
 import "./banner.css";
 import logo from "../assets/Logo/Valuetainment.svg";
-import bannerproduct1 from '../assets/img/img (9).png'
-import bannerproduct2 from '../assets/img/product1.jpg'
+import bannerproduct1 from '../assets/img/productnew1.jpg'
+import bannerproduct2 from '../assets/img/productnew2.jpg'
 import bannerproduct3 from '../assets/img/product3.jpeg'
-import bannerproduct4 from '../assets/img/product2.png'
+import bannerproduct4 from '../assets/img/productnew3.jpg'
 const Banner = () => {
   return (
     <div className=" text-white px-5 md:px-12 pt-5  ">
@@ -107,7 +107,7 @@ const Banner = () => {
             </div>
         </div></SwiperSlide>
        <SwiperSlide> <div>
-            <img src={bannerproduct2} className="w-56 rounded-lg" alt="" />
+            <img src={bannerproduct3} className="w-56 rounded-lg" alt="" />
             <p className="text-xs my-3 ">Army Green Active Short Sleeve</p>
             <div className="flex space-x-2">
               <p className="text-xs">$ 34.95</p>
