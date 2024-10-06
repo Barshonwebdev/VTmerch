@@ -1,5 +1,6 @@
 import Banner from "./components/Banner"
 import Books from "./components/Books"
+import Footer from "./components/Footer"
 import Products from "./components/products"
 import Quote from "./components/Quote"
 
@@ -11,6 +12,7 @@ function App() {
      <Products></Products>
      <Books></Books>
      <Quote></Quote>
+     <Footer></Footer>
     </div>
   )
 }

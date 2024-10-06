@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../assets//Font/Montserrat/static/Montserrat-Medium.ttf') format('truetype');    
+  }
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets//Font/Inter/Inter/static/Inter_18pt-Regular.ttf') format('truetype');    
+  }
+
+.footer-logo{
+    filter: invert(34%) sepia(93%) saturate(5915%) hue-rotate(347deg);
+}
+
+.text-font{
+    font-family: 'Inter', sans-serif;
+}
+
+.logo-font{
+    font-family: 'Montserrat', sans-serif;
+}
