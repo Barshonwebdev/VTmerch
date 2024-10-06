@@ -16,7 +16,7 @@ import linkedin from '../assets/Icon/linkedin (3).svg'
 import twitter from '../assets/Icon/twitter (4).svg'
 const Footer = () => {
   return (
-    <div>
+    <div className="">
       <div className="px-12 pt-10 space-y-2 bg-black text-white">
       <div className="flex items-center space-x-3 mb-5">
         <img className="w-10 footer-logo " src={logo} alt="" />
