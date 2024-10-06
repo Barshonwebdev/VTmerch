@@ -4,11 +4,11 @@ This is a landing page design done using the Reactjs. A one page design along wi
 
 Features includes-
 
-• Sliding animation
-• Responsive across mobile, tablet, laptop and desktop
-• Fadein effect
-• Hover effect
-• Attractive UI
+• Sliding animation <br/>
+• Responsive across mobile, tablet, laptop and desktop <br/>
+• Fadein effect <br/>
+• Hover effect <br/>
+• Attractive UI <br/>
 • Near Pixel Perfection
 
 
